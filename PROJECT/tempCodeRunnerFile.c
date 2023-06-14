@@ -1,1 +1,2 @@
- return 1;
+ default:
+                printf("Invalid choice. Please try again.\n");
